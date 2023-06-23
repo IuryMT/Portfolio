@@ -242,6 +242,10 @@ td{
     position: relative;
 }
 
+.skills > h1{
+    text-align: center;
+}
+
 .skills:nth-child(1){
     margin-right: 100px;
 }
@@ -433,7 +437,7 @@ footer{
     }
 }
 
-@media (max-width: 500px) {
+@media (max-width: 535px) {
     .header-title{
         font-size: 25px;
     }
